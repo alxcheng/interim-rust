@@ -14,9 +14,13 @@
 - **Dates:** 15 November 2024 to 23 November 2024
 - **Status:** Prototype. You can walk around a generated 41x41 grid and interact with markers. There is no combat, stats or story in the Rust code.
 
-![Main menu](docs/main-menu.png)
+| Main menu | Generated map |
+|---|---|
+| ![Main menu](docs/screenshots/01-menu-idle.png) | ![Generated map](docs/screenshots/06-seed1-a-start-center.png) |
 
-The screenshot is the main menu as it opens on macOS (the window is clipped by the display scaling there). Gameplay screenshots have not been added yet.
+| Popup | Whole map |
+|---|---|
+| ![Popup](docs/screenshots/11-tp-b-after-teleport-popup-new-area.png) | ![Whole map](docs/screenshots/23-seed1-z-overview-whole-map.png) |
 
 ## What this is
 
